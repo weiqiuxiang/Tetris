@@ -1,0 +1,26 @@
+﻿  Input.cpp
+  FPS.cpp
+  DrawMethod.cpp
+  SceneTitle.cpp
+  SceneRanking.cpp
+  SceneManager.cpp
+  SceneGame.cpp
+  main.cpp
+  GuiButton.cpp
+  Gui.cpp
+  Stage.cpp
+  Score.cpp
+  ParticleMaker.cpp
+  MinoHoldNext.cpp
+  Mino.cpp
+  Collision.cpp
+  KillLineEffect.cpp
+  Ghost.cpp
+  GameOverDirection.cpp
+  DataExchange.cpp
+  コードを生成中...
+  コンパイル中...
+  ControlHelp.cpp
+  コードを生成中...
+  Tetris.vcxproj -> C:\Users\weiqi\OneDrive\ドキュメント\インターンシップ作品\q_wei\02\Tetris\x64\Debug\Tetris_d.exe
+  Tetris.vcxproj -> C:\Users\weiqi\OneDrive\ドキュメント\インターンシップ作品\q_wei\02\Tetris\x64\Debug\Tetris_d.pdb (Full PDB)
